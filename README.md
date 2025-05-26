@@ -15,19 +15,3 @@ This folder contains a collection of C programming examples, exercises, and proj
 ```bash
 gcc filename.c -o output
 ./output
-
-## 🚀 Contribution
-
-Contributions are welcome! If you'd like to help improve this repository:
-
-- 📥 Feel free to fork and clone the repo
-- 🛠 Add new C programs or improve existing ones
-- 🧹 Fix bugs or improve code structure and readability
-- 📄 Update or enhance documentation
-
-Once you're done, open a pull request. Let’s learn and grow together! 💡
- 
-
-
-
-
