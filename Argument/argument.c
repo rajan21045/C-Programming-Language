@@ -20,14 +20,20 @@ int multiply(int c, int d) //formal argument
 
 int main()
 {
+	
 	int x,y;
+	
 	printf("Enter Two Number: ");
 	scanf("%d%d",&x,&y); //actual argument
+	
 	int result,multi;
+	
 	result = sum(x,y);
 	multi = multiply(x,y);
+	
 	printf("\nSum of %d and %d Is %d",x,y, result);
 	printf("\nMultification of %d and %d Is %d",x,y, multi);
+	
 	return 0;
 }
 
