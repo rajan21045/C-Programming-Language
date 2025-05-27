@@ -11,6 +11,7 @@
 
         printf("Matrix First \n");
         printf("Enter the Element In First Matrix[3][3] : \n");
+        
         for ( i = 0; i < 3; i++)
         {
             for ( j = 0; j < i; j++)
@@ -21,6 +22,7 @@
         
         printf("Now, Matrix Second \n ");
         printf("Enter the Element In Second Matrix[3][3] : \n");
+        
         for ( i = 0; i < 3; i++)
         {
             for ( j = 0; j < i; j++)
@@ -28,6 +30,8 @@
                 scanf("%d",&b[i][j]);
             }
         }
+
+
 
         for ( i = 0; i < 3; i++)
         {
@@ -37,7 +41,9 @@
             }
         }
 
+
         printf("Now, The Sum Of Two Matrices Is \n");
+        
         for ( i = 0; i < 3; i++)
         {
         for (j = 0; j < 3; j++)
