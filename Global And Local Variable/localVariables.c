@@ -1,11 +1,13 @@
 #include<stdio.h>
 void functionOne(){
 	int localVar = 10;
+    
 	printf("Local Variable In functionOne: %d \n", localVar);
 }
 
 void functionTwo(){
 	int localVar = 20;
+    
 	printf("Local Variable In functionTwo: %d \n", localVar);
 }
 
@@ -13,6 +15,7 @@ int main(){
 	
 	functionOne();
 	functionTwo();
+    
 	return 0;
 }
 
