@@ -10,7 +10,7 @@ This folder contains a collection of C programming examples, exercises, and proj
 
 1. Make sure you have a C compiler like GCC installed.  
 2. Use any code editor or IDE (e.g., Code::Blocks, VS Code).
-3. Compile a program:
+3. Compile a program and run a program :
 
 ```bash
 gcc filename.c -o output
