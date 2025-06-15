@@ -14,7 +14,8 @@ This folder contains a collection of C programming examples, exercises, and proj
 
 ```bash
 gcc filename.c -o output
-./output ```
+./output 
+```
 
 ## 📬 Contact
 
