@@ -13,20 +13,19 @@ WAP in c to read 5 subject marks and calculate percentage as follows if passed (
 #include<stdio.h>
 int main(){
 	
-	float m1,m2,m3,m4,m5,percentage,total_marks;
+									float m1,m2,m3,m4,m5,percentage,total_marks;
 	
-	printf("Hey,\nEnter The Marks Of 5 Subject: ");
-	scanf("%f %f %f %f %f",&m1,&m2,&m3,&m4,&m5);
+												printf("Hey,\nEnter The Marks Of 5 Subject: ");
+												scanf("%f %f %f %f %f",&m1,&m2,&m3,&m4,&m5);
 		
-	if(m1<35 ||m2<35 ||m3<35 ||m4<35 ||m5<35){
-		printf("You Have Scored Less Than 35 Marks(Passing Marks). So, You Have Failed The Exam.");
-	}
-	else{
-		total_marks = m1+m2+m3+m4+m5;
-		percentage = (total_marks/500)*100;
+							if(m1<35 ||m2<35 ||m3<35 ||m4<35 ||m5<35){
+													printf("You Have Scored Less Than 35 Marks(Passing Marks). So, You Have Failed The Exam.");
+																			} else{
+					                  total_marks = m1+m2+m3+m4+m5;
+					                   percentage = (total_marks/500)*100;
 		
-		printf("You Have Scored %.2f percentage. \n",percentage);
-		printf("And Your Total Marks Is %.2f. \n",total_marks);
+		                         printf("You Have Scored %.2f percentage. \n",percentage);
+																						       printf("And Your Total Marks Is %.2f. \n",total_marks);
 	}
 	
 	if(percentage>=80){
