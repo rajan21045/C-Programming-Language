@@ -7,15 +7,15 @@ program to show the example of formal arguments and actual arguments.
 #include<stdio.h>
 
 int sum(int a, int b) //formal argument
-{	
-	return a+b;
-}
+				{	
+									return a+b;
+				}
 
 
 int multiply(int c, int d) //formal argument
-{
-	return c*d;
-}
+					{
+						return c*d;
+						}
 
 
 int main()
