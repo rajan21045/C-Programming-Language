@@ -1,4 +1,5 @@
     /*
+    
     Write a program in C to add two 3*3 matrices and display result
 
     */
@@ -14,10 +15,14 @@
         
         for ( i = 0; i < 3; i++)
         {
+            
             for ( j = 0; j < i; j++)
             {
+                
                 scanf("%d",&a[i][j]);
+                
             }
+            
         }
         
         printf("Now, Matrix Second \n ");
