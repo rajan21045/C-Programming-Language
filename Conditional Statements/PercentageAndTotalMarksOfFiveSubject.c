@@ -29,15 +29,15 @@ int main(){
 	}
 	
 	if(percentage>=80){
-		printf("Congratulations, You Have Got Distination.");
+				printf("Congratulations, You Have Got Distination.");
 	} else if(percentage>=60 && percentage<80 ){
-		printf("Congratulations, You Have Got First Division.");
+				printf("Congratulations, You Have Got First Division.");
 	}else if(percentage>=45 && percentage<60 ){
-		printf("Congratulations, You Have Got Second Division.");
+				printf("Congratulations, You Have Got Second Division.");
 	}else if(percentage>=35 && percentage<45 ){
-		printf("Congratulations, You Have Got Third Division.");
+				printf("Congratulations, You Have Got Third Division.");
 	} else{
-		printf("Sorry, You Have Scored Less Than 35 Marks.");
+				printf("Sorry, You Have Scored Less Than 35 Marks.");
 	}
 	
 	return 0;
