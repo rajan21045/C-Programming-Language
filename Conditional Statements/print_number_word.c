@@ -8,6 +8,7 @@
 #include <stdio.h>  // Include standard input-output header
 
 int main() {
+    
     int n;
 
     // Read input from user (no prompt as per online judge requirement)
