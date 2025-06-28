@@ -19,6 +19,7 @@ void swap(int n1, int n2) {
 }
 
 int main() {
+    
     int x = 20, y = 69;
 
     // Print original values
