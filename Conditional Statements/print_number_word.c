@@ -4,6 +4,7 @@
  * and prints its lowercase English word representation 
  * if it lies between 1 and 9 (both inclusive).
  * If the number is greater than 9, print: Greater than 9
+
  */
 
 #include <stdio.h>  // Include standard input-output header
