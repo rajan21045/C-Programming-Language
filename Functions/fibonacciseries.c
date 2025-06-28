@@ -10,7 +10,7 @@ The Fibonacci series is a sequence of numbers where each number is the sum of th
 #include <stdio.h> // Include standard input-output library
 
 int fibo(int n){ // Function to calculate Fibonacci number using recursion
-    
+
     if(n==0 || n==1){
         return n; // Base case: if n is 0 or 1, return n itself
     }
