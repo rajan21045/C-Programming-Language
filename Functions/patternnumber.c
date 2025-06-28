@@ -23,6 +23,7 @@ int main() { // Main function where the program execution starts
         for(int j = 1; j <= i; j++) { // Loop to print the number of columns in each row
                 printf("1 \t"); // Print 1 for each column in the row
             } 
+            
         printf("\n"); // Move to the next line after printing all columns in the current row
     }
 
