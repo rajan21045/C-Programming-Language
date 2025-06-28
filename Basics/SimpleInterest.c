@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main(){
 	
+    
 	int time;
 	float principal, rate;
 	float SI;
