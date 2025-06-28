@@ -1,4 +1,5 @@
 /*
+
 Write a program in C that takes a positive integer n (with exactly five digits) as input and 
 calculates the sum of its digits. Print the result as output.
 */
