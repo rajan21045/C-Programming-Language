@@ -1,3 +1,12 @@
+/*
+
+Sort an Array Using Pointers Only: 
+Sort an integer array in ascending order without using array indexing (use only pointer arithmetic).
+
+
+*/
+
+
 #include<stdio.h>
 int main(){
 	int arr[] = {1,2,6,3,4};
@@ -26,3 +35,4 @@ void printArr(int *arr, int n){
 		printf("%d ", *(arr+ i));
 	}
 }
+
