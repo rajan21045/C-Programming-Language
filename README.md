@@ -2,7 +2,6 @@
 
 Welcome to the **C Programming Language** repository!  
 
-
 This folder contains a collection of C programming examples, exercises, and projects aimed at helping beginners and intermediate learners strengthen their understanding of the C language.
 
 ---
