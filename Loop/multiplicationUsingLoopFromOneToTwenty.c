@@ -14,7 +14,7 @@ int main(){
 
     return 0;
 }
-
+   
 /*
 Why we use unsigned long long:
 - The result of multiplying numbers from 1 to 20 (i.e., 20!) is a very large number: 2432902008176640000.
