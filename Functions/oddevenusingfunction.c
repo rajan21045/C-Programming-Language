@@ -8,7 +8,7 @@ int main()
 	number();
 	return 0;
 }
-
+ 
 void number(){
 	int a;
 	printf("Enter A Number: ");
