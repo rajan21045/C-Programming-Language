@@ -7,7 +7,7 @@ int main() {
 
     printf("Enter String: ");
     fgets(text1, sizeof(text1), stdin); // safer alternative to gets()
-
+ 
     // Remove newline character from fgets
     text1[strcspn(text1, "\n")] = '\0';
 
