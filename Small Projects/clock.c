@@ -10,7 +10,7 @@ void fill_time(char*,int);
 void fill_date(char*);
 void clear_screen();
 
-
+ 
 int main() {
     char time[50]; 
     char date[100]; 
