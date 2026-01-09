@@ -3,7 +3,7 @@
 #define MAX_SIZE 100
 
 int main() {
-    
+
     printf("Value of PI: %f\n", PI);
     printf("Maximum size is: %d\n", MAX_SIZE);
     
