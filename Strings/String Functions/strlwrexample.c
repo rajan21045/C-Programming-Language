@@ -12,7 +12,7 @@ int main(){
 	strlwr(text);
 	printf("\n");
 	printf("Text After Conversion Into Lowercase: %s",text);
-		
+		 
 	return 0;
 }
 
