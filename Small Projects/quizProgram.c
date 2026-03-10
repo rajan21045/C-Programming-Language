@@ -5,7 +5,7 @@ int main() {
     int a1, a2, a3, a4, a5, a6, a7;
     int total;
     int n;
-
+ 
     // Initial greeting and option to enter or exit
     printf("Welcome To Quiz Program...\n");
     printf(">> Press 7 To Enter The Program...\n");
