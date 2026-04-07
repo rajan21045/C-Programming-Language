@@ -5,7 +5,7 @@ int main(){
 	int time;
 	float principal, rate;
 	float SI;
-	
+	 
 	printf("Enter The Principal, Time, Rate To Find The Simple Interest: ");
 	scanf("%f %d %f", &principal,&time,&rate);
 	
